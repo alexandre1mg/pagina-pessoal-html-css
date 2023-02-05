@@ -1,0 +1,24 @@
+body {
+    background-color:#edfdda;
+    }
+footer{
+    background-color: rgb(195, 212, 245);
+}
+.link{
+    color: rgb(80, 26, 230);
+    text-decoration: none;
+}
+p{
+    font-style: italic;
+}
+button{
+    font-size: larger;
+    margin: 15px;
+    border: 3px #909190 solid;
+}
+button:hover{
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
